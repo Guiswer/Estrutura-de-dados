@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme\\source\\repos\\Cpraticing.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBD33A6-83E2-4AD8-8AFA-4B8A114CD13E}|Cpraticing.c\\Cpraticing.c.vcxproj|C:\\Users\\guilherme\\source\\repos\\Cpraticing.c\\Cpraticing.c\\Pratice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DBD33A6-83E2-4AD8-8AFA-4B8A114CD13E}|Cpraticing.c\\Cpraticing.c.vcxproj|solutionrelative:Cpraticing.c\\Pratice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pratice.c",
+              "DocumentMoniker": "C:\\Users\\guilherme\\source\\repos\\Cpraticing.c\\Cpraticing.c\\Pratice.c",
+              "RelativeDocumentMoniker": "Cpraticing.c\\Pratice.c",
+              "ToolTip": "C:\\Users\\guilherme\\source\\repos\\Cpraticing.c\\Cpraticing.c\\Pratice.c",
+              "RelativeToolTip": "Cpraticing.c\\Pratice.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-14T20:30:04.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
